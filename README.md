@@ -1,6 +1,6 @@
 # text2image-free
-![Version badge](https://img.shields.io/badge/version-beta--0.1-green)
-![Status badge](https://img.shields.io/badge/status-offline-red)
+![Version badge](https://img.shields.io/badge/version-beta--0.1-blue)
+![Status badge](https://img.shields.io/badge/status-online-green)
 
 # URL 
 ## https://api.sitius.tech
@@ -25,6 +25,8 @@
 
 Here you can use any text2image pipeline model available to huggingface.
 Simply set the model field with the huggingface model id field (it should look like **username/model**)
+
+response will contain an url to the image
 
 ### GET https://api.sitius.tech/gen
 
