@@ -28,6 +28,6 @@ Simply set the model field with the huggingface model id field (it should look l
 
 response will contain an url to the image
 
-### GET https://api.sitius.tech/gen
+### GET https://api.sitius.tech/models
 
 #### Simply returns some preferred models.
