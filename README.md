@@ -9,7 +9,9 @@
 ## Swagger generated documentation
 ##### https://api.sitius.tech/docs
 
-## Detailed usage
+# Detailed usage
+
+## Endpoints
 
 ### POST https://api.sitius.tech/gen
 
@@ -31,3 +33,41 @@ response will contain an url to the image
 ### GET https://api.sitius.tech/models
 
 #### Simply returns some preferred models.
+
+## Example by language
+
+### Python
+
+```python
+import requests
+
+API_URL = "https://api.sitius.tech"
+
+def query(payload):
+	response = requests.post(API_URL, json=payload)
+	return response.content
+image_bytes = query({
+  "prompt": "cute dog",
+  "negative": "bad anatomy",
+  "model": "runwayml/stable-diffusion-v1-5"
+})
+```
+
+### Javascript
+
+```js
+async function query(data) {
+	const response = await fetch(
+		"https://api.sitius.tech",
+		{
+			method: "POST",
+			body: JSON.stringify(data),
+		}
+	);
+	const result = await response.blob();
+	return result;
+}
+query({"prompt": "cute dog", "negative": "bad anatomy", "model": "runwayml/stable-diffusion-v1-5"}).then((response) => {
+	// Use image
+});
+```
