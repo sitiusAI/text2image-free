@@ -71,3 +71,7 @@ query({"prompt": "cute dog", "negative": "bad anatomy", "model": "runwayml/stabl
 	// Use image
 });
 ```
+
+# License
+
+Use this however you like. Give it a star and if you want credits in your app
