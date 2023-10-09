@@ -1,3 +1,7 @@
+# END OF LIFE NOTICE
+ON 1/11/2023 THIS API WILL SHUT DOWN. A NEW FREEMINUM API WILL BE RELEASED IN THE FOLLOWING NEWS. WE THANK ALL USERS.
+
+
 # text2image-free
 ![Version badge](https://img.shields.io/badge/version-beta--0.1-blue)
 ![Status badge](https://img.shields.io/badge/status-online-green)
