@@ -1,5 +1,9 @@
-# END OF LIFE NOTICE
-ON 1/12/2023 THIS API WILL SHUT DOWN. A NEW FREEMINUM API WILL BE RELEASED IN THE FOLLOWING NEWS. WE THANK ALL USERS.
+# NOTICE
+Due to performence issues we are announcing the closure of this api.
+We will be creating a new version using google cloud soon.
+During this period the api will remain running but without any updates. this includes security and maintenence updates. No matter the case we will not provide support on this API.
+
+[potential alternative](https://github.com/sitiusAI/text2image-free/issues/7)
 
 
 # text2image-free
