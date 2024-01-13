@@ -1,9 +1,11 @@
 # NOTICE
-Due to performence issues we are announcing the closure of this api.
+~~Due to performence issues we are announcing the closure of this api.
 We will be creating a new version using google cloud soon.
-During this period the api will remain running but without any updates. this includes security and maintenence updates. No matter the case we will not provide support on this API.
+During this period the api will remain running but without any updates. this includes security and maintenence updates. No matter the case we will not provide support on this API.~~
+api is gone now
 
-[potential alternative](https://github.com/sitiusAI/text2image-free/issues/7)
+# update 1
+We have almost finished work on our next api release is set to take place in early february. An exact date will be announced later.
 
 
 # text2image-free
