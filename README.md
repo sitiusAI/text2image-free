@@ -4,8 +4,9 @@ We will be creating a new version using google cloud soon.
 During this period the api will remain running but without any updates. this includes security and maintenence updates. No matter the case we will not provide support on this API.~~
 api is gone now
 
-# update 1
-We have almost finished work on our next api release is set to take place in early february. An exact date will be announced later.
+New API Has been released
+checkout
+https://github.com/OpenImagery/docs
 
 
 # text2image-free
